@@ -1,0 +1,6 @@
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Random Projects\Cash Only 2.0\Cash Only 2.0\bin\Debug\Cash Only 2.0.exe.config
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Random Projects\Cash Only 2.0\Cash Only 2.0\bin\Debug\Cash Only 2.0.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Random Projects\Cash Only 2.0\Cash Only 2.0\bin\Debug\Cash Only 2.0.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Random Projects\Cash Only 2.0\Cash Only 2.0\obj\Debug\Cash Only 2.0.csproj.CoreCompileInputs.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Random Projects\Cash Only 2.0\Cash Only 2.0\obj\Debug\Cash Only 2.0.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Random Projects\Cash Only 2.0\Cash Only 2.0\obj\Debug\Cash Only 2.0.pdb
